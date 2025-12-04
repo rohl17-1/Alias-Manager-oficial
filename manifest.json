@@ -1,6 +1,6 @@
 {
-  "name": "Alias Manager",
-  "short_name": "Aliases",
+  "name": "Email Alias Manager",
+  "short_name": "Email Aliases",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0d1117",
