@@ -1,0 +1,20 @@
+{
+  "name": "Email Alias Manager",
+  "short_name": "Email Aliases",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/732/732200.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

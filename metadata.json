@@ -1,0 +1,5 @@
+{
+  "name": "Alias Manager",
+  "description": "A dark-mode email alias management tool (Local/Offline).",
+  "requestFramePermissions": []
+}
