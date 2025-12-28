@@ -50,7 +50,7 @@ export const INITIAL_DATA: DataSource[] = [
     "email10": "rico@cod.aleeas.com"
   },
   {
-    "id": 3,
+    "id": 4,
     "category": "email",
     "origem": "SL-Apoio",
     "dica": "Utilize o código do chamado (ex: 9999).",
@@ -64,6 +64,14 @@ export const INITIAL_DATA: DataSource[] = [
     "email8": "sotestando@vintage.aleeas.com",
     "email9": "conta01@vintage.aleeas.com",
     "email10": "audaz@astuto.aleeas.com"
+  },
+  {
+    "id": 5,
+    "category": "email",
+    "origem": "Sites",
+    "dica": "",
+    "email": "https://www.4devs.com.br/gerador_de_pessoas",
+    "email2": "https://geradornv.com.br/gerador-celular/"
   },
   {
     "id": 7,
@@ -83,9 +91,7 @@ export const INITIAL_DATA: DataSource[] = [
       { "type": "CPF", "number": "021,754,317-03" },
       { "type": "RG", "number": "12.345.678/0001-90" },
       { "type": "CNPJ", "number": "37.202.552/0001-92" },
-      { "type": "CNH", "number": "00598161653" },
-      { "type": "CNH", "Site": "https://www.4devs.com.br/gerador_de_pessoas"},
-      { "type": "CNH", "Site": "https://geradornv.com.br/gerador-celular/"}
+      { "type": "CNH", "number": "00598161653" }
     ]
   },
   {
