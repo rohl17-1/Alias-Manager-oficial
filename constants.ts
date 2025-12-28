@@ -39,7 +39,7 @@ export const INITIAL_DATA: DataSource[] = [
     "origem": "K*7 - Kalias",
     "dica": "Utilize o código do chamado (ex: 9999).",
     "email": "contaapp@cod.aleeas.com",
-    "email2": "emailtempor@cod.slmail.me",
+    "email2": "idiomas@cod.aleeas.com",
     "email3": "emailtemporario@cod.aleeas.com",
     "email4": "redesocial@cod.aleeas.com",
     "email5": "redesocial01@cod.aleeas.com",
