@@ -88,8 +88,8 @@ export const INITIAL_DATA: DataSource[] = [
       { "type": "CNPJ", "number": "39.733.272/0001-36" },
       { "type": "CNH", "number": "56356064578" },
       { "type": "TELL", "number": "(21) 98336-9514" },
-      { "type": "CPF", "number": "021,754,317-03" },
-      { "type": "RG", "number": "12.345.678/0001-90" },
+      { "type": "CPF", "number": "021.754.317-03" },
+      { "type": "RG", "number": "35.178.833-6" },
       { "type": "CNPJ", "number": "37.202.552/0001-92" },
       { "type": "CNH", "number": "00598161653" }
     ]
